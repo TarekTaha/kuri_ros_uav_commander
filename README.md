@@ -1,4 +1,4 @@
-kuri_ros_infrastructure
+KURI ROS Infrastructure
 =======================
 
 Khalifa University Robotics Institute ROS Infrastructure
